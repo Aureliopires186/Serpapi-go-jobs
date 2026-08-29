@@ -15,3 +15,4 @@ Help Go developers programmatically search for remote developer jobs using SerpA
 2. Install dependencies:
     ```bash
     go get github.com/serpapi/google-search-results-golang
+
